@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lady_profiler
+namespace basictest
 {
-    public class BenchMark
+    class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }

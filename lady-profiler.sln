@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lady-profiler", "lady-profiler\lady-profiler.csproj", "{23E3EAFF-281F-4B7B-8117-21EBB4D715EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basictest", "basictest\basictest.csproj", "{8F6A1406-9F27-4507-9A5F-68D3905868F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{23E3EAFF-281F-4B7B-8117-21EBB4D715EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E3EAFF-281F-4B7B-8117-21EBB4D715EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E3EAFF-281F-4B7B-8117-21EBB4D715EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6A1406-9F27-4507-9A5F-68D3905868F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6A1406-9F27-4507-9A5F-68D3905868F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6A1406-9F27-4507-9A5F-68D3905868F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6A1406-9F27-4507-9A5F-68D3905868F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
